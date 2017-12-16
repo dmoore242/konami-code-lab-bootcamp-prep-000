@@ -17,7 +17,7 @@ function init() {
           alert("YOU DID IT");
           index=0;
     } else {
-      alert("Wrong Code")
+     
       index=0;
     }
 
